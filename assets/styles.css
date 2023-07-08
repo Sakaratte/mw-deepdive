@@ -1,0 +1,25 @@
+body {
+	background: black;
+	color: #999999;
+}
+
+.contrib {
+	max-height: 850px;
+	max-width: 800px;
+	overflow: scroll;
+}
+
+.table-container {
+	width: 800px;
+	margin: auto;
+}
+
+.management {
+	width: 300px;
+	position: absolute;
+	top: 0;
+}
+
+.highlight {
+	background: #990000;
+}
